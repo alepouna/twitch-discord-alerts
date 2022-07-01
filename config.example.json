@@ -1,0 +1,21 @@
+{
+    
+    "webhook_URL": "your discord webhook url",
+    "webhook_name": "Streamer 1000",
+    "webhook_avatar": "an icon url in .jpg .png etc ",
+
+    "use_embed": true,
+
+    "non_embed_text": "@everyone",
+
+    "embed_config": {
+        "title": "Stream Started!",
+        "description": "A  new stream has been started, [click here to watch](https://twitch.tv/YourChannelName)!\n\n[https://twitch.tv/YourChannelName](https://twitch.tv/YourChannelName)",
+        "color": "0x00FF00",
+        "image": " https://static-cdn.jtvnw.net/previews-ttv/live_user_YourChannelName-1920x1080.jpg",
+        "show_timestamp": true
+    },
+
+    "server_port": 9080
+    
+}
