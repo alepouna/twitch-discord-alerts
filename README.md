@@ -7,7 +7,8 @@ Like this tool? [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko
 
 # Video Tutorial
 
-Soon :)
+[![Video Tutorial](http://img.youtube.com/vi/t8_6bj4dZ50/0.jpg)](https://www.youtube.com/embed/t8_6bj4dZ50 "Video Tutorial")
+
 
 # Text tutorial 
 
