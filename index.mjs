@@ -13,8 +13,8 @@ const hook = new Webhook(config.webhook_URL);
 
 app.get('/stream/start', async (req, res) => {
 
-    await hook.setUsername(config.webhook_name);
-    await hook.setAvatar(config.webhook_avatar);
+    if (config.webhook_name !== "") hook.setUsername(config.webhook_name);
+    if (config.webhook_avatar !== "") hook.setAvatar(config.webhook_avatar);
 
     if (config.use_embed) {
         const embed = new MessageBuilder();
