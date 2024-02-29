@@ -1,3 +1,5 @@
+## ⚠️⚠️⚠️ As of 29/02/2024 this repo has been moved to GitLab at https://gitlab.com/alepouna.dev/twitch-discord-alerts
+
 # twitch-discord-alerts
 
 A simple tool to send announcements to your Discord server whenever you go live!
